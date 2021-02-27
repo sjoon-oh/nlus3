@@ -1,0 +1,18 @@
+{
+	"app_id": "ednetYonsei",
+	"retUrl": "https://open.yonsei.ac.kr",
+	"failUrl": "https://open.yonsei.ac.kr/login/index.php",
+	"baseUrl": "https://open.yonsei.ac.kr",
+	"loginUrl": "https://open.yonsei.ac.kr/passni/sso/coursemosLogin.php",
+	"ssoChallenge": "",
+	"loginType": "invokeID",
+	"returnCode": "",
+	"returnMessage": "",
+	"keyModulus": "",
+	"keyExponent": "",
+	"ssoGubun": "Login",
+	"refererUrl": "https://open.yonsei.ac.kr/login.php",
+	"test": "SSOAuthLogin",
+	"username": "",
+	"password": ""
+}
